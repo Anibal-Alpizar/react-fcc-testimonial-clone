@@ -1,4 +1,4 @@
-Free Code Camp Testimonial clones using React
+Free Code Camp Testimonials clone using React
 
 <br>
 
